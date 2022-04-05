@@ -1,0 +1,23 @@
+body,
+button {
+  font-family: "Titillium Web", sans-serif;
+}
+#flex-container {
+  display: flex;
+}
+button {
+  border: none;
+  font-weight: bold;
+  border-radius: 5px;
+  color: rgb(25, 150, 211);
+  cursor: pointer;
+}
+ul li {
+  list-style: none;
+}
+h3,
+h4 {
+  color: rgb(25, 150, 211);
+  font-weight: bold;
+  text-align: center;
+}
